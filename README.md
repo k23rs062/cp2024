@@ -2,8 +2,8 @@
 
 ## Part 1
 This is README.
-- Sakamoto
-- Ryusei
+- Yamada
+- Sousyun
 
 ## Part 2
 1. sunday
