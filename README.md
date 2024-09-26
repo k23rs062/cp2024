@@ -3,7 +3,7 @@
 ## Part 1
 This is README.
 - Sakamoto
-- Ryusei
+- mukizun
 
 ## Part 2
 1. sunday
